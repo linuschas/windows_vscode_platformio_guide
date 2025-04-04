@@ -20,7 +20,7 @@ This is a Windows- & VSCode extension based guide for installing PlatformIO IDE 
 
 ![alt text](img3.png "Open PlatformIO Extension")
 
--   If necessary when opening the extension, download the requirements. This may take a while, and will appear in your VSCode terminal.
+-   If necessary when opening the extension, download the requirements. This may take a while, and will appear in your VSCode terminal. Once this process is done, you should restart your VSCode.
 
 ![alt text](img4.png "PlatformIO Extension Installation")
 
@@ -30,7 +30,7 @@ This is a Windows- & VSCode extension based guide for installing PlatformIO IDE 
 
 ![alt text](img6.png "PlatformIO Extension Installation")
 
--   Now, open the PlatformIO Extension. Either import a previous project, or creaet a new one to get started.
+-   Now, open the PlatformIO Extension. Either import a previous project, or create a new one to get started.
 
 ![alt text](img7.png "Open PlatformIO Extension")
 
