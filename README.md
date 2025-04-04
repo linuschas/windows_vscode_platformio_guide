@@ -56,3 +56,7 @@ This is a Windows- & VSCode extension based guide for installing PlatformIO IDE 
 ![alt text](img12.png "Open serial communication")
 
 ![alt text](img13.png "Showcasing serial communication")
+
+# Useful Links
+- [PlatformIO IDE Website](https://docs.platformio.org/en/latest/integration/ide/pioide.html)
+- [PlatformIO IDE VSCode Page](https://docs.platformio.org/en/latest/integration/ide/vscode.html#ide-vscode)
